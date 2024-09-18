@@ -1,0 +1,52 @@
+body{
+    background-image: url(https://wallpapers.com/images/featured/white-aesthetic-laptop-ivqznp6h48afoug5.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    
+ 
+}
+.h0{
+    border: 20px solid rgb(243, 209, 209);
+    display: flex;
+    width: 50rem;
+    height: 17rem;
+    justify-content: space-around;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: space-between;
+    margin-top: 15rem;
+    border-radius: 30px;
+    background: linear-gradient(to right, rgb(253, 109, 133),rgb(11, 212, 198));
+    
+}
+.h1{
+    text-align: center;
+    justify-content: space-between;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+
+}
+
+.h2{
+    text-align: center;
+    margin-right: 39px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   
+}
+p{
+    font-size: smaller;
+    
+}
+h3{
+    margin: 10px;
+}
+button{
+    background-color: lightcoral;
+    padding: 10px;
+    margin-top: -2rem;
+    border-radius: 10px;
+}
